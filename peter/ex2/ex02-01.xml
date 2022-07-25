@@ -1,4 +1,3 @@
-<!DOCTYPE xml>
 <?xml version="1.0"?>
 <mysongs>
     <song id="001">
@@ -8,7 +7,6 @@
         <country> Japan </country>           
         <publish_date> 21-04-1989 </publish_date>
     </song>
-    
     <song id="002">
         <artist> Scooter  </artist>
         <title>Jumping all over the World</title>
@@ -16,7 +14,6 @@
         <country> Germany </country>           
         <publish_date> 30-11-2009 </publish_date>
     </song>
-    
     <song id="003">
         <artist> S3RL</artist>
         <title> Party with us </title>
@@ -24,7 +21,6 @@
         <country> Australia </country>           
         <publish_date> 07-01-2020 </publish_date>
     </song>
-    
     <song id="004">
         <artist>LamazeP</artist>
         <title> PoPiPo</title>
@@ -32,7 +28,6 @@
         <country> Japan </country>           
         <publish_date> 11-08-2008</publish_date>
     </song>
-    
     <song id="005">
         <artist>Deadmau5</artist>
         <title>Strobe</title>
@@ -40,7 +35,6 @@
         <country> Canada </country>           
         <publish_date> 03.09.2009 </publish_date>
     </song>
-    
     <song id="006">
         <artist>Iron Maiden</artist>
         <title> The Number of the Beast </title>
@@ -55,7 +49,6 @@
         <country> America </country>           
         <publish_date> 11.02.2002 </publish_date>
     </song>
-    
     <song id="008">
         <artist>Dire Straits</artist>
         <title>Sultans of Swing</title>
@@ -63,7 +56,6 @@
         <country> England </country>           
         <publish_date> 19-04-1978 </publish_date>
     </song>
-    
     <song id="009">
         <artist>Dire Straits</artist>
         <title>Brothers in Arms</title>
@@ -71,7 +63,6 @@
         <country> England </country>           
         <publish_date>13-04-1985</publish_date>
     </song>
-
     <song id="010">
         <artist>Ween</artist>
         <title>Ocean Men</title>
@@ -79,7 +70,6 @@
         <country> America </country>           
         <publish_date> 24.06.1997 </publish_date>
     </song>
-
     <song id="011">
         <artist> Blink-182</artist>
         <title> All the Small Things</title>
@@ -87,7 +77,6 @@
         <country> America </country>           
         <publish_date>18-01-2000</publish_date>
     </song>
-
     <song id="012">
         <artist>MUSE</artist>
         <title> Knights of Cydonia</title>
@@ -95,7 +84,6 @@
         <country> England </country>           
         <publish_date>27-11-2006</publish_date>
     </song>
-
     <song id="013">
         <artist>Linkin Park</artist>
         <title> Somewhere I belong</title>
@@ -103,7 +91,6 @@
         <country> America </country>           
         <publish_date>17-03-2003</publish_date>
     </song>
-
     <song id="014">
         <artist> Metallica</artist>
         <title>The Unforgiven</title>
@@ -111,7 +98,6 @@
         <country> America </country>           
         <publish_date>28-10-1991</publish_date>
     </song>
-
     <song id="015">
         <artist>Metallica</artist>
         <title>The Unforgiven 2</title>
@@ -119,7 +105,6 @@
         <country> America </country>           
         <publish_date>23-02-1998</publish_date>
     </song>
-    
     <song id="016">
         <artist>S3RL, Tamika</artist>
         <title>Predictable Rave Song</title>
@@ -127,7 +112,6 @@
         <country>England </country>           
         <publish_date> 01-10-2020</publish_date>
     </song>
-
     <song id="017">
         <artist>Pendulum</artist>
         <title>Propane Nightmares</title>
@@ -135,7 +119,6 @@
         <country> Australia </country>           
         <publish_date>12-04-2008</publish_date>
     </song>
-
     <song id="018">
         <artist>David Bowie</artist>
         <title>Absolute Beginners</title>
@@ -143,7 +126,6 @@
         <country> England </country>           
         <publish_date>03-03-1986</publish_date>
     </song>
-
     <song id="019">
         <artist>BT</artist>
         <title>Love Divine</title>
@@ -151,7 +133,6 @@
         <country> America </country>           
         <publish_date>26-09-2014</publish_date>
     </song>
-
     <song id="020">
         <artist>Paul Van Dyke</artist>
         <title>For an Angel</title>
